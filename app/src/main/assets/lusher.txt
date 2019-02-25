@@ -1,0 +1,330 @@
+12Чувство удовлетворенности, спокойствия, стремление к спокойной обстановке, нежелание участвовать в конфликтах, стрессе.
+13Чувство целостности, активное и не всегда осознанное стремление к тесным отношениям. Потребность во внимании со стороны других.
+15Небольшое беспокойство, потребность в тонком окружении, стремление к эстетическому.
+16Чувство беспокойства, страх одиночества, стремление уйти от конфликтов, избежать стресса.
+17Негативное состояние, стремление к покою, отдыху, неудовлетворенность отношением к себе, негативное отношение к ситуации.
+18Негативное состояние, потребность освободиться от стресса, стремление к покою, отдыху.
+21Позитивное состояние, стремление к признанию, к деятельности, обеспечивающей успех.
+23Активное стремление к успеху, к самостоятельным решениям, преодолению преград в деятельности.
+24Вы желаете:	Небольшое беспокойство, стремление к признанию, популярности, желание произвести впечатление.
+25Небольшое беспокойство, стремление к признанию, популярности, желание супервпечатлений, повышенное внимание к реакциям окружающих на свои поступки.
+26Чувство неудовлетворенности, усталости, переоценка значимости отношения к себе со стороны окружающих.
+27Чувство обиды, злости, стремление к жесткости, авторитетности в отношениях.
+28Чувство неудовлетворенности, стремление к признанию, желание произвести впечатление.
+31Деловое возбуждение, активное стремление к деятельности, впечатлениям, удовольствиям.
+32Деловое возбуждение, активное стремление к цели, преодолению всех трудностей, стремление к высокой оценке своей деятельности.
+34Деловое, слегка повышенное возбуждение, увлеченность, оптимизм, стремление контактам, расширение сферы деятельности.
+35Повышенное возбуждение, не всегда адекватная увлеченность, стремление произвести впечатление.
+36Негативное настроние, огорчение из-за неудачи, нежелание лишиться благ приятной ситуации.
+37Негативное настроение злость, стремление уйти из неблагоприятной ситуации. 
+38Чувство неудовлетворенности, направленность на рискованное действие.
+41Настроение в общем положительное, стремление к позитивному эмоциональному состоянию, взаимовыдержке.
+42Настроение в общем положительное, желание поиска первых путей решения стоящих задач, стремление к самоутверждению.
+43Несколько повышенное деловое возбуждение, стремление к широкой активности.
+45Небольшая эйфория, стремление к ярким событиям, желание произвести впечатление.
+46Негативное настроение, огорчение и потребность в эмоциональной разрядке и отдыхе.
+47Весьма негативное настроение, стремление уйти от любых проблем, склонность к необходимым, малоадекватным решениям.
+48Негативное угнетенное стояние, стремление выйти из неприятной ситуации, четкое представление о том, как это сделать.
+51Неопределенное настроение, стремление к согласию и гармонии.
+52Настороженность, желание произвести впечатление.
+53Некоторое возбуждение, увлеченность, активное стремление произвести впечатление.
+54Возбуждение, фантазирование, стремление к ярким событиям.
+56Возбуждение, направленность на сильные эмоциональные переживания.
+57Негативное состояние.
+58Вы желаете:  	Напряжение, стремление оградить себя от конфликтов, стресса.
+61Напряжение, страх одиночества, желание уйти из неблагоприятной ситуации.
+62Чувство беспокойства, стремление к строгому контролю над собой, чтобы избежать ошибки.
+63Активное стремление к эмоциональной разрядке.
+64Утрата веры в положительные перспективы, вероятность необдуманных решений («мне все равно»).
+65Чувство неудовлетворенности, стремление к комфорту.
+67Негативное состояние, разочарованность, стремление к покою, желание уйти от активности.
+68Весьма негативное состояние, стремление уйти от сложных проблем, а не бороться с ними.
+71Весьма негативное состояние, стремление уйти от проблем («оставили бы в покое».
+72Возбуждение, гневное отношение к окружающим, не всегда адекватное упрямство.
+73Сильное возбуждение, возможны аффективные поступки.
+74Весьма негативное состояние, отчаяние, суицидные мысли.
+75Напряженность, мечты о гармонии.
+76Возбуждение, постановка нереальных задач, стремление уйти от беспокойных мыслей, неблагоприятных ситуаций.
+78Чувство безнадежности, обреченности, стремление сопротивляться всему, неадекватность.
+81Негативное состояние, желание спокойной ситуации.
+82Негативное состояние, ощущение враждебности окружающих и желание оградиться от среды.
+83Негативное состояние, возвышенные требования к окружающим, не всегда адекватная активность.
+84Негативное состояние, стремление уйти от проблем, а не решать их.
+85Чувство беспокойства и настороженности, стремление скрыть это чувство.
+86Весьма негативное стояние, стремление уйти от всего сложного, трудного, от волнения.
+87Весьма негативное состояние, обида, чувство угнетенности, вероятность неадекватных решений.
+12Чувство удовлетворенности, спокойствия, стремление к спокойной обстановке, нежелание участвовать в конфликтах, стрессе.
+13Чувство целостности, активное и не всегда осознанное стремление к тесным отношениям. Потребность во внимании со стороны других.
+15Небольшое беспокойство, потребность в тонком окружении, стремление к эстетическому.
+16Чувство беспокойства, страх одиночества, стремление уйти от конфликтов, избежать стресса.
+17Негативное состояние, стремление к покою, отдыху, неудовлетворенность отношением к себе, негативное отношение к ситуации.
+18Негативное состояние, потребность освободиться от стресса, стремление к покою, отдыху.
+21Позитивное состояние, стремление к признанию, к деятельности, обеспечивающей успех.
+23Активное стремление к успеху, к самостоятельным решениям, преодолению преград в деятельности.
+24В действительности:	Небольшое беспокойство, стремление к признанию, популярности, желание произвести впечатление.
+25Небольшое беспокойство, стремление к признанию, популярности, желание супервпечатлений, повышенное внимание к реакциям окружающих на свои поступки.
+26Чувство неудовлетворенности, усталости, переоценка значимости отношения к себе со стороны окружающих.
+27Чувство обиды, злости, стремление к жесткости, авторитетности в отношениях.
+28Чувство неудовлетворенности, стремление к признанию, желание произвести впечатление.
+31Деловое возбуждение, активное стремление к деятельности, впечатлениям, удовольствиям.
+32Деловое возбуждение, активное стремление к цели, преодолению всех трудностей, стремление к высокой оценке своей деятельности.
+34Деловое, слегка повышенное возбуждение, увлеченность, оптимизм, стремление контактам, расширение сферы деятельности.
+35Повышенное возбуждение, не всегда адекватная увлеченность, стремление произвести впечатление.
+36Негативное настроние, огорчение из-за неудачи, нежелание лишиться благ приятной ситуации.
+37Негативное настроение злость, стремление уйти из неблагоприятной ситуации. 
+38Чувство неудовлетворенности, направленность на рискованное действие.
+41Настроение в общем положительное, стремление к позитивному эмоциональному состоянию, взаимовыдержке.
+42Настроение в общем положительное, желание поиска первых путей решения стоящих задач, стремление к самоутверждению.
+43Несколько повышенное деловое возбуждение, стремление к широкой активности.
+45Небольшая эйфория, стремление к ярким событиям, желание произвести впечатление.
+46Негативное настроение, огорчение и потребность в эмоциональной разрядке и отдыхе.
+47Весьма негативное настроение, стремление уйти от любых проблем, склонность к необходимым, малоадекватным решениям.
+48Негативное угнетенное стояние, стремление выйти из неприятной ситуации, четкое представление о том, как это сделать.
+51Неопределенное настроение, стремление к согласию и гармонии.
+52Настороженность, желание произвести впечатление.
+53Некоторое возбуждение, увлеченность, активное стремление произвести впечатление.
+54Возбуждение, фантазирование, стремление к ярким событиям.
+56Возбуждение, направленность на сильные эмоциональные переживания.
+57Негативное состояние.
+58В действительности:  	Напряжение, стремление оградить себя от конфликтов, стресса.
+61Напряжение, страх одиночества, желание уйти из неблагоприятной ситуации.
+62Чувство беспокойства, стремление к строгому контролю над собой, чтобы избежать ошибки.
+63Активное стремление к эмоциональной разрядке.
+64Утрата веры в положительные перспективы, вероятность необдуманных решений («мне все равно»).
+65Чувство неудовлетворенности, стремление к комфорту.
+67Негативное состояние, разочарованность, стремление к покою, желание уйти от активности.
+68Весьма негативное состояние, стремление уйти от сложных проблем, а не бороться с ними.
+71Весьма негативное состояние, стремление уйти от проблем («оставили бы в покое».
+72Возбуждение, гневное отношение к окружающим, не всегда адекватное упрямство.
+73Сильное возбуждение, возможны аффективные поступки.
+74Весьма негативное состояние, отчаяние, суицидные мысли.
+75Напряженность, мечты о гармонии.
+76Возбуждение, постановка нереальных задач, стремление уйти от беспокойных мыслей, неблагоприятных ситуаций.
+78Чувство безнадежности, обреченности, стремление сопротивляться всему, неадекватность.
+81Негативное состояние, желание спокойной ситуации.
+82Негативное состояние, ощущение враждебности окружающих и желание оградиться от среды.
+83Негативное состояние, возвышенные требования к окружающим, не всегда адекватная активность.
+84Негативное состояние, стремление уйти от проблем, а не решать их.
+85Чувство беспокойства и настороженности, стремление скрыть это чувство.
+86Весьма негативное стояние, стремление уйти от всего сложного, трудного, от волнения.
+87Весьма негативное состояние, обида, чувство угнетенности, вероятность неадекватных решений. 
+81Чувство неудовлетворенности, эмоциональной напряженности.
+82Эмоциональная напряженность, желание выйти из неблагоприятной ситуации. 
+83Раздраженность, чувство беспомощности.
+84Тревожность, неуверенность в своих силах.
+85Небольшое контролируемое возбуждение.
+86Тревожность, неуверенность в своих силах, но при этом завышенная требовательность, желание достичь признания своей личности.
+87Отрицание каких-либо ограничений своей личности, активное стремление к деятельности.
+12Сильное напряжение, стремление избавиться от негативного стрессового состояния.
+13Сильное напряжение, чувство беспомощности, желание выйти из эмоциональной ситуации.
+14Состояние, близкое к стрессу, эмоциональные негативные переживания, чувство беспомощности.
+15Состояние, близкое к стрессу, сложность взаимоотношений, чувство ограниченности в возможностях, нетерпеливость.
+16Эмоциональная неудовлетворенность, самоограничение, поиск поддержки.
+17Состояние, близкое к стрессу, эмоциональная неудовлетворенность, стремление уйти из психогенной ситуации.
+18Несколько угнетенное состояние, тревожность, ощущение бесперспективности.
+21Угнетенное состояние неверие в свои силы, стремление уйти из неприятной ситуации.
+23Сильное возбуждение, тягостные переживания, отношения со средой считает для себя враждебными, возможны аффективные поступки.
+24Состояние, близкое к фрустрации, чувство разочарования, нерешительность.
+25Состояние, близкое к стрессовому, чувство оскорбленного достоинства, неверие в свои силы.
+26Состояние, близкое к стрессовому, неадекватно повышенный самоконтроль необоснованное стремление к признанию.
+27Состояние фрустрации за ограничения амбициозных требований, недостаточная целеустремленность.
+28Состояние фрустрации, раздраженность из-за ряда неудач, снижение волевых качеств.
+31Подавляемое возбуждение, раздражительность, нетерпеливость, поиск выхода из негативных отношений, сложившихся с близкими людьми.
+32Состояние стресса из-за неадекватной самооценки.
+34Мнительность, тревожность, неадекватная оценка среды, стремление к самооправданию.
+35Состояние стресса из-за за неудачных попыток достичь взаимопонимания, чувство неуверенности, беспомощности, желание сочувствия.
+36Сильное напряжение, вызванное иногда самоограничением либидо, отсутствие дружеских контактов, неуверенность в своих силах.
+37Состояние стресса из-за глубокого разочарования, фрустрация, чувство тревожности, бессилия решить конфликтную проблему, желание выйти из фрустрирующей ситуации любым путем, сомнение в том, что это удастся.
+38Сдерживаемое возбуждение, чувство утрачиваемой перспективы, вероятность нервного истощения.
+41Чувство разочарования, состояние, близкое к стрессу, стремление подавить негативные эмоции.
+42Состояние нерешительности, тревожности, разочарования.
+43Состояние стресса, сопровождаемое возбуждением, сомнения в успехе, претензии, не подкрепляемые реальными возможностями, самооправдание.
+45Эмоциональное разочарование и чувство беспокойства, тревоги, разочарования.
+47Напряженность, чувство неуверенности, настороженности, стремление избежать контроля извне.
+48Напряженность, чувство боязни потерять что-то важное, упустить возможности, напряженное ожидание.
+51Чувство неудовлетворенности, стимулирующее к активности, стремление к сотрудничеству.
+52Стрессовые состояния из-за неосуществившегося самоутверждения.
+53Стрессовое состоя из-за неудач в активных, иногда необдуманных действ!
+54Настороженность, подозрительность, разочарование, замкнутость.
+56Стресс, вызванный нарушением желательных взаимоотношений, повышенная взыскательность к другим.
+57Напряжение из-за ограничения в самостоятельных решениях, стремление к взаимопониманию, откровенному выражению мыслей.
+58Проявление нетерпения, но в то же время стремление к самоконтролю, вызывает некоторое эмоциональное возбуждение.
+61Негативное состояние, чувство неудовлетворенности из-за недостаточного признания заслуг (реальных и предполагаемых), стремление к самоограничению и самоконтролю.
+62Негативное состояние из-за чрезмерного самоконтроля, упрямое желание выделиться, сомнения в том, что это удастся.
+63Стрессовое состояние из-за подавленности эротических и других биологических потребностей, стремление к сотрудничеству для выхода из стресса.
+64Напряженность стремления скрыть тревогу под маской уверенности и беспечности.
+65Негативное состояние из-за неудовлетворенного стремления к чувственной гармонии.
+67Стремление уйти из подчинения, негативное отношение к различным запретам.
+68Стрессовое состояние из-за подавления биологических, потребностей либидо.
+71Состояние беспокойства в связи со скрываемым желанием получить помощь, поддержку.
+72Состояние, близкое к фрустрации из-за ограничения свободы желаемых действий, стремление избавиться от помех.
+73Стрессовое состояние, вызванное разочарованием в ожидаемой ситуации, эмоциональное возбуждение.
+74Стрессовое состояние из-за боязни дальнейших неудач, отказ от разумных компромиссов.
+75Поиски идеализированной ситуации.
+76Стрессовое состояние из-за неприятных ограничений, запретов, стремление сопротивляться ограничениям, уйти от заурядности.
+78Стремление уйти из неблагоприятной ситуации.
+12A feeling of satisfaction, calmness, a desire for a calm atmosphere, unwillingness to participate in conflicts, stress.
+13A sense of integrity, an active and not always conscious desire for close relationships. The need for attention from others.
+15A little concern, the need for a subtle environment, the pursuit of aesthetic.
+16Anxiety, fear of loneliness, desire to get away from conflicts, avoid stress.
+17Negative state, desire for peace, rest, dissatisfaction with attitude to yourself, negative attitude to the situation.
+18Negative condition, the need to get rid of stress, the desire for peace, rest.
+21Positive state, striving for recognition, for activities that ensure success.
+23Active striving for success, for independent decisions, overcoming obstacles in activity.
+24You wish: A little concern, desire for recognition, popularity, desire to make an impression.
+25You wish: A little concern, desire for recognition, popularity, desire for super impressions, increased attention to the reactions of others to their actions.
+26Feeling dissatisfaction, fatigue, overestimation of the importance of attitude to yourself from others.
+27Feeling resentment, anger, desire for rigidity, credibility in a relationship.
+28A feeling of dissatisfaction, a desire for recognition, a desire to make an impression.
+31Business excitement, active desire for action, impressions, pleasures.
+32Business excitement, active pursuit of a goal, overcoming all difficulties, striving for a high appreciation of your activity.
+34Business, a little heightened excitement, enthusiasm, optimism, desire for contacts, expansion of the field of activity.
+35Increased excitement, not always adequate enthusiasm, the desire to impress.
+36Negative attitude, disappointment due to failure, unwillingness to lose the benefits of a pleasant situation.
+37Negative mood, anger, desire to leave an unfavorable situation.
+38Feeling dissatisfaction, focus on risky action.
+41The mood is generally positive, the desire for a positive emotional state, mutual support.
+42The mood is generally positive, the desire to find the first ways to solve the tasks, the desire for self-affirmation.
+43Somewhat increased business arousal, the desire for broad activity.
+45Slight euphoria, desire for bright events, desire to make an impression.
+46Negative mood, chagrin and the need for emotional relaxation and rest.
+47A very negative mood, a desire to get away from any problems, a tendency to the necessary, inadequate solutions.
+48Negative depressed standing, desire to get out of an unpleasant situation, a clear idea of ​​how to do it.\ n
+51Uncertain mood, desire for harmony and harmony.
+52Alertness, a desire to make an impression.
+53Some excitement, dedication, active desire to make an impression.
+54Excitement, fantasy, striving for bright events.
+56Excitement, focus on strong emotional experiences.
+57Negative state.
+58Tension, desire to protect yourself from conflict, stress.
+61Tension, fear of loneliness, desire to leave an unfavorable situation.
+62Anxiety, a desire for strict control over yourself, to avoid mistakes.
+63Actively strive for emotional release.
+64Loss of faith in positive perspectives, the likelihood of ill-considered decisions (“I don’t care”).
+65A feeling of dissatisfaction, a desire for comfort.
+67Negative state, disappointment, desire for peace, desire to get away from activity.
+68A very negative state, the desire to get away from difficult problems, and not to deal with them.
+71A very negative state, the desire to get away from the problems ("would be left alone."
+72Excitement, angry attitude towards others, not always adequate stubbornness.
+73Strong arousal, affective actions are possible.
+74A very negative state, despair, suicidal thoughts.
+75Tension, dreams of harmony.
+76Excitement, posing unrealistic tasks, striving to get away from restless thoughts, unfavorable situations.
+78Feeling hopeless, doomed, trying to resist everything, inadequacy.
+81Negative state, desire for a calm situation.
+82Negative state, feeling the hostility of others and the desire to protect themselves from the environment.
+83Negative state, high demands on others, not always adequate activity.
+84Negative state, desire to get away from problems, not to solve them.
+85Feeling of anxiety and alertness, desire to hide this feeling.
+86Very negative standing, the desire to get away from all that is difficult, difficult, from excitement.
+87A very negative state, an insult, a feeling of depression, the likelihood of inadequate decisions.
+12A feeling of satisfaction, calmness, a desire for a calm atmosphere, unwillingness to participate in conflicts, stress.
+13A sense of integrity, an active and not always conscious desire for close relationships. The need for attention from others.
+15A little concern, a need for subtle surroundings, a desire for aesthetic.
+16Feelings of anxiety, fear of loneliness, desire to get away from conflicts, avoid stress.
+17Negative state, desire for peace, rest, dissatisfaction with attitude towards oneself, negative attitude towards the situation.
+18Negative state, the need to get rid of stress, the desire for peace, rest.
+21Positive state, striving for recognition, for activities that ensure success.
+23an active striving for success, for independent decisions, overcoming obstacles in activity.
+24A little concern, desire for recognition, popularity, desire to make an impression.
+25Some concern, desire for recognition, popularity, desire for super impressions, increased attention to the reactions of others to their actions.
+26Feeling dissatisfaction, fatigue, overestimation of the importance of the attitude towards yourself from others.
+27Feeling resentment, anger, desire for rigidity, credibility in relationships.
+28A feeling of dissatisfaction, a desire for recognition, a desire to make an impression.
+31Business excitement, an active desire for activity, impressions, pleasures.
+32Business excitement, active striving for a goal, overcoming all difficulties, striving for a high appreciation of one’s activities.
+34Business, a little heightened arousal, enthusiasm, optimism, desire for contacts, expansion of the field of activity.
+35Heightened arousal, not always adequate enthusiasm, the desire to make an impression.
+36negativeness, disappointment due to failure, unwillingness to lose the benefits of a pleasant situation.
+37negative mood, anger, desire to leave an unfavorable situation.
+38feeling dissatisfaction, focus on risky action.
+41The mood is generally positive, the desire for a positive emotional state, mutual support.
+42The mood is generally positive, the desire to find the first ways to solve the tasks at hand, the desire for self-affirmation.
+43Somewhat increased business arousal, the desire for widespread activity.
+45A slight euphoria, desire for bright events, a desire to make an impression.
+46negative mood, chagrin and the need for emotional relaxation and rest.
+47A very negative mood, a desire to get away from any problems, a tendency to the necessary, inadequate solutions.
+48Negative depressed standing, desire to get out of an unpleasant situation, a clear idea of ​​how to do it.
+51Uncertain mood, desire for harmony and harmony.
+52Alertness, a desire to make an impression.
+53Some excitement, enthusiasm, an active desire to make an impression.
+54Excitement, fantasy, striving for bright events.
+56Excitement, focus on strong emotional experiences.
+57Negative state.
+58Tension, desire to protect oneself from conflict, stress.
+61Tension, fear of loneliness, desire to leave an unfavorable situation.
+62Feelings of anxiety, desire for strict control over yourself, to avoid mistakes.
+63Actively striving for emotional relaxation.
+64Loss of faith in positive perspectives, the likelihood of ill-considered decisions (“I don’t care”).
+65A feeling of dissatisfaction, a desire for comfort.
+67negative, disappointed, aspiring desire to rest, desire to get away from activity.
+68A very negative state, the desire to get away from difficult problems, and not to deal with them.
+71A very negative state, a desire to get away from problems (“would be left alone.”
+72Excitement, angry attitude towards others, not always adequate stubbornness.
+73Strong arousal, affective actions are possible.
+74A very negative state, despair, suicidal thoughts.
+75Tension, dreams of harmony.
+76Excitement, posing unrealistic tasks, striving to get away from restless thoughts, adverse situations.
+78A sense of hopelessness, doom, the desire to resist everything, inadequacy.
+81negative state, desire for a calm situation.
+82A negative state, a feeling of hostility from others and a desire to protect oneself from the environment.
+83Negative state, high demands on others, not always adequate activity.
+84A negative state, a desire to get away from problems, not to solve them.
+85A feeling of anxiety and alertness, a desire to hide this feeling.
+86Very negative standing, the desire to get away from all that is difficult, difficult, from excitement.
+87A very negative state, an insult, a feeling of depression, the likelihood of inadequate decisions.
+81Feeling of dissatisfaction, emotional tension.
+82Emotional tension, desire to get out of an unfavorable situation.
+83Irritation, feeling of helplessness.
+84Anxiety, self-doubt.
+85Slightly controlled arousal.
+86Anxiety, lack of confidence in their abilities, but at the same time excessive demands, the desire to achieve recognition of his personality.
+87Denial of any restrictions on your personality, active pursuit of activity.
+12Strong tension, the desire to get rid of the negative stress state.
+13Strong tension, feeling of helplessness, desire to get out of the emotional situation.
+14A state close to stress, emotional negative experiences, a feeling of helplessness.
+15Condition close to stress, difficulty in relationship, feeling of limitations in opportunities, impatience.
+16Emotional dissatisfaction, self-restraint, search for support.
+17Condition close to stress, emotional dissatisfaction, desire to leave the psychogenic situation.
+18Somewhat depressed, anxious, feeling hopeless.
+21Depressed state of disbelief in yourself, striving to leave an unpleasant situation.
+23Strong excitement, painful experiences, relations with the environment are hostile, affective actions are possible.
+24Condition close to frustration, frustration, indecision.
+25Condition close to stressful, feeling of offended dignity, disbelief in your strength.
+26A state close to stressful, inadequately increased self-control, unreasonable desire for recognition.
+27State of frustration for limiting ambitious demands, lack of determination.
+28The state of frustration, irritability due to a number of failures, a decrease in volitional qualities.
+31Suppressed excitement, irritability, impatience, the search for a way out of the negative relationships that have developed with loved ones.
+32Stress due to inadequate self-esteem.
+34Vagina, anxiety, inadequate assessment of the environment, the desire for self-justification.
+35State of stress due to unsuccessful attempts to reach mutual understanding, a feeling of insecurity, helplessness, a desire for empathy.
+36Strong tension, sometimes caused by self-restraint of libido, lack of friendly contacts, lack of self-confidence.
+37State of stress due to deep disappointment, frustration, anxiety, powerlessness to solve a conflict problem, desire to get out of a frustrating situation in any way, doubt that it will succeed.
+38Restrained excitement, a sense of lost perspective, the likelihood of nervous exhaustion.
+41Feeling of disappointment, a state close to stress, the desire to suppress negative emotions.
+42State of indecision, anxiety, frustration.
+43State of stress, accompanied by excitement, doubts about success, claims, not supported by real possibilities, self-justification.
+45Emotional frustration and anxiety, anxiety, frustration.
+47Tension, feeling of insecurity, caution, the desire to avoid external control.
+48Tension, a sense of fear of losing something important, missing out on possibilities, suspense.
+51A feeling of dissatisfaction, stimulating activity, a desire to cooperate.
+52Stressful states due to unfulfilled self-affirmation.
+53Stressful due to failures in active, sometimes rash actions!
+54Alertness, suspicion, disappointment, isolation.
+56Stress caused by the violation of the desired relationship, increased exactingness to others.
+57Stress due to limitations in independent decisions, striving for mutual understanding, frank expression of thoughts.
+58The manifestation of impatience, but at the same time the desire for self-control, causes some emotional arousal.
+61negative state, feeling of dissatisfaction due to insufficient recognition of merit (real and supposed), striving for self-restraint and self-control.
+62negative state due to excessive self-control, stubborn desire to stand out, doubts that it will succeed.
+63Stress due to the depression of erotic and other biological needs, the desire to cooperate to get out of stress.
+64Tension of desire to hide anxiety under the guise of confidence and carelessness.
+65Negative state due to unsatisfied desire for sensual harmony.
+67Striving to withdraw from submission, negative attitude to various prohibitions.
+68Stress due to the suppression of biological, libido needs.
+71State of concern about the hidden desire to get help, support.
+72Condition close to frustration due to the restriction of the freedom of desired actions, the desire to get rid of interference.
+73Stress caused by disappointment in an expected situation, emotional arousal.
+74Stress due to the fear of further failures, the rejection of reasonable compromises.
+75The Quest for an Idealized Situation.
+76Stress due to unpleasant restrictions, prohibitions, the desire to resist restrictions, to avoid mediocrity.
+78Striving to escape from an unfavorable situation.
